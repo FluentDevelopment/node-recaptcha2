@@ -1,0 +1,26 @@
+{
+  "name": "recaptcha2",
+  "version": "1.0.0",
+  "description": "Generate HTML for and verify Google Recaptcha 2.0 captchas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/FluentDevelopment/recaptcha2.git"
+  },
+  "keywords": [
+    "captcha",
+    "recaptcha"
+  ],
+  "author": "Timshel Knoll-Miller <timshel@fluentdevelopment.com.au>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/FluentDevelopment/recaptcha2/issues"
+  },
+  "homepage": "https://github.com/FluentDevelopment/recaptcha2#readme",
+  "dependencies": {
+    "bluebird": "^3.0.6"
+  }
+}
