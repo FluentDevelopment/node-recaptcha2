@@ -15,7 +15,7 @@
     "recaptcha"
   ],
   "author": "Timshel Knoll-Miller <timshel@fluentdevelopment.com.au>",
-  "license": "BSD-2-Clause",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/FluentDevelopment/node-recaptcha2/issues"
   },
