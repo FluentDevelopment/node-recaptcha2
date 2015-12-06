@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/FluentDevelopment/recaptcha2.git"
+    "url": "https://github.com/FluentDevelopment/node-recaptcha2"
   },
   "keywords": [
     "captcha",
@@ -17,9 +17,9 @@
   "author": "Timshel Knoll-Miller <timshel@fluentdevelopment.com.au>",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/FluentDevelopment/recaptcha2/issues"
+    "url": "https://github.com/FluentDevelopment/node-recaptcha2/issues"
   },
-  "homepage": "https://github.com/FluentDevelopment/recaptcha2#readme",
+  "homepage": "https://github.com/FluentDevelopment/node-recaptcha2#readme",
   "dependencies": {
     "bluebird": "^3.0.6"
   }
