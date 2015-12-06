@@ -4,7 +4,7 @@
   "description": "Generate HTML for and verify Google Recaptcha 2.0 captchas",
   "main": "./lib/recaptcha2.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test/spec"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,10 @@
   "homepage": "https://github.com/FluentDevelopment/node-recaptcha2#readme",
   "dependencies": {
     "bluebird": "^3.0.6"
+  },
+  "devDependencies": {
+    "chai": "*",
+    "chai-as-promised": "*",
+    "mocha": "*"
   }
 }
