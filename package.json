@@ -2,7 +2,7 @@
   "name": "recaptcha2",
   "version": "1.0.0",
   "description": "Generate HTML for and verify Google Recaptcha 2.0 captchas",
-  "main": "index.js",
+  "main": "./lib/recaptcha2.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
